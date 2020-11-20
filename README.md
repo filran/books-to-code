@@ -1,3 +1,3 @@
-Livros de Programação para codar, ler e amar!
+Livros de Programação para codar,
 
 
